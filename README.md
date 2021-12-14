@@ -14,5 +14,5 @@ export DD_SITE="datadoghq.???" DD_API_KEY="xxxx" DD_APP_KEY="xxxx"
 
 5. Lanciare il comando
 ```
-go run main_alluser.go
+go run main_alluser_list.go
 ```
