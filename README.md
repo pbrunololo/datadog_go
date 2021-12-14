@@ -4,7 +4,7 @@
 2. Creare una cartella dedicata al progetto
 3. Eseguire questo comando
 ```
-go get github.com/DataDog/datadog-api-client-go/api/v2/datadog'''
+go get github.com/DataDog/datadog-api-client-go/api/v2/datadog
 ```
 
 4. Export dei dati
