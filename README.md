@@ -22,7 +22,7 @@ go run main_alluser_list.go
 
 ## Utilizzo con docker container
 1. Creiamo una cartella di lavoro
-2. Eseguire il comando per creare il go.mo
+2. Eseguire il comando per creare il file go.mod
 ```
 go mod init <nomecartella>
 ```
