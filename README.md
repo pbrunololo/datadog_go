@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/51267656/146583554-2f06208a-ad2a-41df-80da-d06bfb38c3e3.png)
-# Datadog GO
+# Datadog and GO - simple use List all User
 
 ## Utilizzo su instanza linux :
 
